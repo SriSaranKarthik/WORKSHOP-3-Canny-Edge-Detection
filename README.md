@@ -1,7 +1,7 @@
 # WORKSHOP-3-Canny-Edge-Detection
 
-# Name : SANJEEV RAJ.S
-# Reg No : 212223220096
+# Name : K.SRISARAN KARTHIK
+# Reg No : 212224230275
 
 
 # CODE :
@@ -25,5 +25,5 @@ plt.show()
 ```
 # OUTPUT :
 
-<img width="960" height="500" alt="image" src="https://github.com/user-attachments/assets/54f86f5e-1291-4de2-82a6-4d83a82de5ec" />
+<img width="1011" height="537" alt="image" src="https://github.com/user-attachments/assets/c46ec1a7-1d54-4ba1-8363-b3a44c1a382e" />
 
